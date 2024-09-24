@@ -33,16 +33,3 @@ The main goal of this project is to develop a model that can classify a given ne
 ## Files in the repository
 
 - `bbc_news_classification.ipynb`: Jupyter notebook containing the code for data preprocessing, model building, and evaluation.
-- `bbc_news_test_predictions.csv`: Output predictions for the test set.
-- `word2vec_bbc.model`: Word2Vec model trained on the BBC news articles.
-- `cleaned_data.csv`: Cleaned and preprocessed data used for model training.
-- `cleaned_data_word2vec.csv`: Preprocessed data transformed into Word2Vec features.
-
-## Usage
-
-To run this project locally, clone the repository and open the Jupyter notebook:
-
-```bash
-git clone https://github.com/yourusername/bbc_news_classification.git
-cd bbc_news_classification
-jupyter notebook bbc_news_classification.ipynb
