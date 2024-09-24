@@ -30,10 +30,6 @@ The main goal of this project is to develop a model that can classify a given ne
 - **Supervised learning** using Random Forest achieved a validation accuracy of **97.3%**.
 - **Unsupervised learning** using NMF also provided insights into latent topics in the articles but achieved lower classification accuracy compared to supervised methods.
 
-## Files in the repository
-
-- `bbc_news_classification.ipynb`: Jupyter notebook containing the code for data preprocessing, model building, and evaluation.
-
 ## Key references:
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. arXiv:1301.3781. 
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality. NIPS 2013.
