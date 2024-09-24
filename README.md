@@ -10,7 +10,7 @@ The main goal of this project is to develop a model that can classify a given ne
 
 1. **Data cleaning and preprocessing**:
    - Checked for missing values and removed duplicates.
-   - Tokenized the text data and performed preprocessing (lowercasing, punctuation removal, etc.) for use in word embeddings.
+   - Tokenised the text data and performed preprocessing (lowercasing, punctuation removal, etc.) for use in word embeddings.
    - Applied **Word2Vec** to transform the text data into word vectors.
 
 2. **Unsupervised learning**:
@@ -33,3 +33,7 @@ The main goal of this project is to develop a model that can classify a given ne
 ## Files in the repository
 
 - `bbc_news_classification.ipynb`: Jupyter notebook containing the code for data preprocessing, model building, and evaluation.
+
+## Key references:
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. arXiv:1301.3781. 
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality. NIPS 2013.
